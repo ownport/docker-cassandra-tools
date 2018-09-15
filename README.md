@@ -1,6 +1,6 @@
-# docker-nodetool
+# docker-cassandra-tools
 
-Apache Cassandra nodetool in Docker
+Apache Cassandra tools in Docker
 
 ## Links
 
