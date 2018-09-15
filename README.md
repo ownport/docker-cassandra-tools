@@ -4,6 +4,7 @@ Apache Cassandra tools in Docker
 
 - nodetool
 - cqlsh
+- sstable utils
 
 ## Links
 
